@@ -69,7 +69,7 @@ class ViewController: UIViewController {
 //                })
 //            .store(in: &cancellables)
         
-        notWorkingFunction()
+//        notWorkingFunction()
     }
 
     fileprivate func fetchDataUsingDatatask() {
